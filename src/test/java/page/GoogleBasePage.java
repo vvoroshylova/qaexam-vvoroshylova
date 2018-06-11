@@ -8,18 +8,12 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public abstract class GoogleBasePage {
 
     protected WebDriver webDriver;
-    /**
-     * Constructor of BasePage
-     * @param webDriver - webDriver instance
-     */
+
     public GoogleBasePage(WebDriver webDriver){
         this.webDriver=webDriver;
     }
 
-    /** Method get current url
-     * @return - webDriver
-     */
-    public String getCurrentUrl(){
+        public String getCurrentUrl(){
         return  webDriver.getCurrentUrl();
     }
 
