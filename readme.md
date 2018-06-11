@@ -7,7 +7,7 @@ In order to utilise this project you need to have the following latest versions 
 * Intellij Idea;
 * JDK;
 * Firefox (If Firefox is already installed, make sure it's up-to-date);
-* Geckodriver (place it under C - Program files - Windows-System32; 
+* Geckodriver (place it under C - Program files - Windows-System32); 
 * Markdown plug-in;
 * Registered account at Github.
 
