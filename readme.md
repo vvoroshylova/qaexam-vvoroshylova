@@ -1,5 +1,5 @@
 # About the Project
-This is a java script to perform automated test that opens Google.com in Firefox Web browser, performs search for "Selenium",
+This is a Java project to perform automated test that opens Google.com in Firefox Web browser, performs search for "Selenium",
 and verifies result on first two pages.
 
 ## Prerequisites
