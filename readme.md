@@ -4,12 +4,12 @@ and verifies result on first two pages.
 
 ## Prerequisites
 In order to utilise this project you need to have the following latest versions installed locally:
-Intellij Idea;
-JDK;
-Firefox (If Firefox is already installed, make sure it's up-to-date);
-Geckodriver (place it under C - Program files - Windows-System32; 
-Markdown plug-in;
-Registered account at Github.
+* Intellij Idea;
+* JDK;
+* Firefox (If Firefox is already installed, make sure it's up-to-date);
+* Geckodriver (place it under C - Program files - Windows-System32; 
+* Markdown plug-in;
+* Registered account at Github.
 
 ## Running Tests
 1. Run cmd.exe
